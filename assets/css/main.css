@@ -35,11 +35,9 @@ body {
 
 ol, ul {
 	list-style: none;
+	list-style-type: none;
 }
 
-li {
-	list-decoration:none;
-}
 
 blockquote, q {
 	quotes: none;
@@ -1663,3 +1661,4 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
