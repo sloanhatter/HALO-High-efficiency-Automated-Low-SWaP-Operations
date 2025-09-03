@@ -956,6 +956,10 @@ input, select, textarea {
 			padding: 0.75em 0.75em;
 		}
 
+		tr td:last-child {
+			float:right;
+		}
+
 		table th {
 			color: #ffffff;
 			font-size: 0.9em;
@@ -1661,6 +1665,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
