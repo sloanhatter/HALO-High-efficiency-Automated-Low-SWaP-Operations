@@ -735,7 +735,6 @@ input, select, textarea {
 		}
 
 	ul {
-		list-style: disc;
 		margin: 0 0 2rem 0;
 		padding-left: 1em;
 	}
@@ -1661,4 +1660,5 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
